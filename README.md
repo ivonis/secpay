@@ -1,2 +1,0 @@
-# secpay
-Test task
